@@ -24,7 +24,9 @@ The following screenshots shows the runtime using the original not factored code
 
 *Refactored Code*
 
-The second step required me to refactor the existing VBA code and measure it's performance agaisnt the prior code.  The following screenshot shows the runtime using the refactored code for 2017 and 2018.
+The second step required me to refactor the existing VBA code and measure it's performance agaisnt the prior code.  The main changes made were the creation of a ticker index and creation of three output arrays that were looped through.  If you wish to see the script in more detail please refer to the developer tool window within the macro enabled excel file (VBA_Challenge.xlsm).
+
+The following screenshot shows the runtime using the refactored code for 2017 and 2018.
 
 ![This is an image](Resources/VBA_Challenge_2017.png)
 
