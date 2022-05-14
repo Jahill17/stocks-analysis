@@ -12,10 +12,12 @@ Multiple steps were taken as part of this analysis.  This first required me to s
 
 The first and second screenshots below show excerpts of the original code used.
 
-*Screenshot
+*Screenshot 1*
+
 ![This is an image](Resources/NotFactored_VBA_Script_pt1.png)
 
 *Screenshot 2*
+
 ![This is an image](Resources/NotFactored_VBA_Script_pt2.png)
 
 The following screenshots shows the runtime using the original not factored code for 2017 and 2018.
